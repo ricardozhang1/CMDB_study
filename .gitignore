@@ -1,0 +1,4 @@
+CMDB/settings.py
+db.sqlite3
+assets/migrations
+
